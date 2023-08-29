@@ -16,8 +16,8 @@ const MyApp: AppType = ({ Component, pageProps }) => {
 
   const meta = {
     title: "Xander Cole | Software Engineer",
-    description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
-    image: "/avatar.png",
+    description: `Get in touch with me to know more.`,
+    image: "/ProfilePic.png",
     type: "website",
   };
   return (
